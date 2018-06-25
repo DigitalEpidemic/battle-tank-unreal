@@ -87,6 +87,8 @@ Content/Tank/tank_fbx_Turret.uasset
 
 # Large level files
 Content/Levels/BattleGround_High.umap
+Content/Levels/BattleGround.umap
+Content/BattleGround.umap
 
 # Packaged game
 WindowsNoEditor/
