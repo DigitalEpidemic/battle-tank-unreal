@@ -78,5 +78,15 @@ DerivedDataCache/*
 
 # Large starter content
 Content/StarterContent/*
-Content/Tank/
+
+# Tank 3D model
+Content/Tank/tank_fbx_Barrel.uasset
+Content/Tank/tank_fbx_Body.uasset
+Content/Tank/tank_fbx_Track.uasset
+Content/Tank/tank_fbx_Turret.uasset
+
+# Large level files
+Content/Levels/BattleGround_High.umap
+
+# Packaged game
 WindowsNoEditor/
