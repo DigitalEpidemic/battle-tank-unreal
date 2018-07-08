@@ -76,9 +76,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Large starter content
-Content/StarterContent/*
-
 # Tank 3D model
 Content/Tank/tank_fbx_Barrel.uasset
 Content/Tank/tank_fbx_Body.uasset
@@ -92,4 +89,8 @@ Content/BattleGround.umap
 
 # Packaged game
 WindowsNoEditor/
-Content/Mortar/
+
+# Auto-Mortar 3D model
+Content/Mortar/mortar_dome.uasset
+Content/Mortar/mortar_body.uasset
+Content/Mortar/mortar_barrel.uasset
