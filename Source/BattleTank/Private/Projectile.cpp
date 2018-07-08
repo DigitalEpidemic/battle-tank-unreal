@@ -1,7 +1,6 @@
 // Copyright 2018 Jeffrey Polasz. All Rights Reserved.
 
 #include "Projectile.h"
-#include "Engine/World.h"
 
 // Sets default values
 AProjectile::AProjectile()

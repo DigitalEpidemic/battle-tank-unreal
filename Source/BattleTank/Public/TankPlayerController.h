@@ -7,7 +7,6 @@
 #include "TankPlayerController.generated.h"
 
 // Forward declaration
-class ATank;
 class UTankAimingComponent;
 
 /**
