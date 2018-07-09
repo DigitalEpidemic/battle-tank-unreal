@@ -23,7 +23,13 @@ protected:
 
 private:
 	virtual void BeginPlay() override;
+
+	virtual void SetPawn(APawn* InPawn) override;
+
 	virtual void Tick(float DeltaTime) override;
+
+	UFUNCTION()
+	void OnTankDeath();
 
 	// Start the tank moving the barrel so that a shot would hit the world where the crosshair intersects the world
 	void AimTowardsCrosshair();
